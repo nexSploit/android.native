@@ -3,10 +3,10 @@
 	url = https://github.com/tux-mind/platform_external_apr.git
 [submodule "arpspoof"]
 	path = arpspoof
-	url = https://github.com/cSploit/arpspoof.git
+	url = https://github.com/nexSploit/arpspoof.git
 [submodule "cSploitCommon"]
 	path = cSploitCommon
-	url = https://github.com/cSploit/common.git
+	url = https://github.com/nexSploit/common.git
 [submodule "ettercap-ng"]
 	path = ettercap-ng
 	url = https://github.com/tux-mind/platform_external_ettercap.git
@@ -57,7 +57,7 @@
 	url = https://github.com/android/platform_external_openssl.git
 [submodule "ruby"]
 	path = ruby
-	url = https://github.com/cSploit/android.native.ruby.git
+	url = https://github.com/nexSploit/android.native.ruby.git
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/tux-mind/platform_external_subversion.git
@@ -72,7 +72,7 @@
 	url = https://github.com/tux-mind/platform_external_bdb.git
 [submodule "cSploitDaemon"]
 	path = cSploitDaemon
-	url = https://github.com/cSploit/daemon.git
+	url = https://github.com/nexSploit/daemon.git
 [submodule "firebird"]
 	path = firebird
 	url = https://github.com/tux-mind/platform_external_firebird.git
@@ -114,7 +114,7 @@
 	url = https://github.com/tux-mind/libyaml.git
 [submodule "network-radar"]
 	path = network-radar
-	url = https://github.com/cSploit/network-radar.git
+	url = https://github.com/nexSploit/network-radar.git
 [submodule "openldap"]
 	path = openldap
 	url = https://github.com/tux-mind/platform_external_openldap.git
